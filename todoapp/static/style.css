@@ -1,0 +1,11 @@
+.banner{
+     background-color: springgreen;
+     width:100%;
+     height:100px;
+     margin-bottom:50px;
+}
+
+.banner-text{
+     padding:25px;
+
+}
